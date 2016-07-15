@@ -7,6 +7,6 @@ On top of the Turing curriculum we focus on learning other languages and working
 ---------------------------------------
   - Name: 
   - short project description:
-  - github repo link: 
+  - repo link: 
 
 
