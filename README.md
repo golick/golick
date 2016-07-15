@@ -6,7 +6,6 @@ On top of the Turing curriculum we focus on learning other languages and working
 
 Here're a couple of our projects:
 
-# add projects bellow:
 name:
 one-sentence description:
 github repo link:
