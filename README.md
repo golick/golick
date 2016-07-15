@@ -5,8 +5,8 @@ We are a group of students and alumni from [Turing School of Software & Design](
 On top of the Turing curriculum we focus on learning other languages and working on side projects.
 
 projects:
-  Name: 
-    github repo link: 
-      url: 
+  - Name: 
+  - github repo link: 
+  - url: 
 
 
